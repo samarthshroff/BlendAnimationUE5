@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\Source\\BlendAnimationUE5\\BlendAnimationUE5.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\.vscode\\compileCommands_BlendAnimationUE5\\BlendAnimationUE5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\Source\\BlendAnimationUE5\\BlendAnimationUE5.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\.vscode\\compileCommands_BlendAnimationUE5\\BlendAnimationUE5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\Source\\BlendAnimationUE5\\BlendAnimationUE5.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Personal\\Ue5\\BlendAnimationUE5\\.vscode\\compileCommands_BlendAnimationUE5\\BlendAnimationUE5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
